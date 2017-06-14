@@ -17,10 +17,17 @@
     @":abc:"                               : @"\U0001F524", \
     @":abcd:"                              : @"\U0001F521", \
     @":accept:"                            : @"\U0001F251", \
+    @":ad:"                                : @"\U0001F1E6\U0001F1E9", \
+    @":ae:"                                : @"\U0001F1E6\U0001F1EA", \
     @":aerial_tramway:"                    : @"\U0001F6A1", \
+    @":af:"                                : @"\U0001F1E6\U0001F1EB", \
+    @":ag:"                                : @"\U0001F1E6\U0001F1EC", \
+    @":ai:"                                : @"\U0001F1E6\U0001F1EE", \
     @":airplane:"                          : @"\U00002708", \
+    @":al:"                                : @"\U0001F1E6\U0001F1F1", \
     @":alarm_clock:"                       : @"\U000023F0", \
     @":alien:"                             : @"\U0001F47D", \
+    @":am:"                                : @"\U0001F1E6\U0001F1F2", \
     @":ambulance:"                         : @"\U0001F691", \
     @":anchor:"                            : @"\U00002693", \
     @":angel:"                             : @"\U0001F47C", \
@@ -28,8 +35,11 @@
     @":angry:"                             : @"\U0001F620", \
     @":anguished:"                         : @"\U0001F627", \
     @":ant:"                               : @"\U0001F41C", \
+    @":ao:"                                : @"\U0001F1E6\U0001F1F4", \
     @":apple:"                             : @"\U0001F34E", \
+    @":aq:"                                : @"\U0001F1E6\U0001F1F6", \
     @":aquarius:"                          : @"\U00002652", \
+    @":ar:"                                : @"\U0001F1E6\U0001F1F7", \
     @":aries:"                             : @"\U00002648", \
     @":arrow_backward:"                    : @"\U000025C0", \
     @":arrow_double_down:"                 : @"\U000023EC", \
@@ -53,10 +63,17 @@
     @":arrows_counterclockwise:"           : @"\U0001F504", \
     @":art:"                               : @"\U0001F3A8", \
     @":articulated_lorry:"                 : @"\U0001F69B", \
+    @":as:"                                : @"\U0001F1E6\U0001F1F8", \
     @":astonished:"                        : @"\U0001F632", \
+    @":at:"                                : @"\U0001F1E6\U0001F1F9", \
     @":athletic_shoe:"                     : @"\U0001F45F", \
     @":atm:"                               : @"\U0001F3E7", \
+    @":au:"                                : @"\U0001F1E6\U0001F1FA", \
+    @":aw:"                                : @"\U0001F1E6\U0001F1FC", \
+    @":ax:"                                : @"\U0001F1E6\U0001F1FD", \
+    @":az:"                                : @"\U0001F1E6\U0001F1FF", \
     @":b:"                                 : @"\U0001F171", \
+    @":ba:"                                : @"\U0001F1E7\U0001F1E6", \
     @":baby:"                              : @"\U0001F476", \
     @":baby_bottle:"                       : @"\U0001F37C", \
     @":baby_chick:"                        : @"\U0001F424", \
@@ -76,6 +93,9 @@
     @":bath:"                              : @"\U0001F6C0", \
     @":bathtub:"                           : @"\U0001F6C1", \
     @":battery:"                           : @"\U0001F50B", \
+    @":bb:"                                : @"\U0001F1E7\U0001F1E7", \
+    @":bd:"                                : @"\U0001F1E7\U0001F1E9", \
+    @":be:"                                : @"\U0001F1E7\U0001F1EA", \
     @":bear:"                              : @"\U0001F43B", \
     @":bee:"                               : @"\U0001F41D", \
     @":beer:"                              : @"\U0001F37A", \
@@ -84,11 +104,17 @@
     @":beginner:"                          : @"\U0001F530", \
     @":bell:"                              : @"\U0001F514", \
     @":bento:"                             : @"\U0001F371", \
+    @":bf:"                                : @"\U0001F1E7\U0001F1EB", \
+    @":bg:"                                : @"\U0001F1E7\U0001F1EC", \
+    @":bh:"                                : @"\U0001F1E7\U0001F1ED", \
+    @":bi:"                                : @"\U0001F1E7\U0001F1EE", \
     @":bicyclist:"                         : @"\U0001F6B4", \
     @":bike:"                              : @"\U0001F6B2", \
     @":bikini:"                            : @"\U0001F459", \
     @":bird:"                              : @"\U0001F426", \
     @":birthday:"                          : @"\U0001F382", \
+    @":bj:"                                : @"\U0001F1E7\U0001F1EF", \
+    @":bl:"                                : @"\U0001F1E7\U0001F1F1", \
     @":black_circle:"                      : @"\U000026AB", \
     @":black_joker:"                       : @"\U0001F0CF", \
     @":black_large_square:"                : @"\U00002B1B", \
@@ -103,6 +129,9 @@
     @":blue_car:"                          : @"\U0001F699", \
     @":blue_heart:"                        : @"\U0001F499", \
     @":blush:"                             : @"\U0001F60A", \
+    @":bm:"                                : @"\U0001F1E7\U0001F1F2", \
+    @":bn:"                                : @"\U0001F1E7\U0001F1F3", \
+    @":bo:"                                : @"\U0001F1E7\U0001F1F4", \
     @":boar:"                              : @"\U0001F417", \
     @":boat:"                              : @"\U000026F5", \
     @":bomb:"                              : @"\U0001F4A3", \
@@ -116,11 +145,15 @@
     @":bow:"                               : @"\U0001F647", \
     @":bowling:"                           : @"\U0001F3B3", \
     @":boy:"                               : @"\U0001F466", \
+    @":bq:"                                : @"\U0001F1E7\U0001F1F6", \
+    @":br:"                                : @"\U0001F1E7\U0001F1F7", \
     @":bread:"                             : @"\U0001F35E", \
     @":bride_with_veil:"                   : @"\U0001F470", \
     @":bridge_at_night:"                   : @"\U0001F309", \
     @":briefcase:"                         : @"\U0001F4BC", \
     @":broken_heart:"                      : @"\U0001F494", \
+    @":bs:"                                : @"\U0001F1E7\U0001F1F8", \
+    @":bt:"                                : @"\U0001F1E7\U0001F1F9", \
     @":bug:"                               : @"\U0001F41B", \
     @":bulb:"                              : @"\U0001F4A1", \
     @":bullettrain_front:"                 : @"\U0001F685", \
@@ -129,6 +162,11 @@
     @":busstop:"                           : @"\U0001F68F", \
     @":bust_in_silhouette:"                : @"\U0001F464", \
     @":busts_in_silhouette:"               : @"\U0001F465", \
+    @":bv:"                                : @"\U0001F1E7\U0001F1FB", \
+    @":bw:"                                : @"\U0001F1E7\U0001F1FC", \
+    @":by:"                                : @"\U0001F1E7\U0001F1FE", \
+    @":bz:"                                : @"\U0001F1E7\U0001F1FF", \
+    @":ca:"                                : @"\U0001F1E8\U0001F1E6", \
     @":cactus:"                            : @"\U0001F335", \
     @":cake:"                              : @"\U0001F370", \
     @":calendar:"                          : @"\U0001F4C6", \
@@ -144,7 +182,12 @@
     @":carousel_horse:"                    : @"\U0001F3A0", \
     @":cat:"                               : @"\U0001F431", \
     @":cat2:"                              : @"\U0001F408", \
+    @":cc:"                                : @"\U0001F1E8\U0001F1E8", \
+    @":cd:"                                : @"\U0001F1E8\U0001F1E9", \
     @":cd:"                                : @"\U0001F4BF", \
+    @":cf:"                                : @"\U0001F1E8\U0001F1EB", \
+    @":cg:"                                : @"\U0001F1E8\U0001F1EC", \
+    @":ch:"                                : @"\U0001F1E8\U0001F1ED", \
     @":chart:"                             : @"\U0001F4B9", \
     @":chart_with_downwards_trend:"        : @"\U0001F4C9", \
     @":chart_with_upwards_trend:"          : @"\U0001F4C8", \
@@ -157,11 +200,14 @@
     @":chocolate_bar:"                     : @"\U0001F36B", \
     @":christmas_tree:"                    : @"\U0001F384", \
     @":church:"                            : @"\U000026EA", \
+    @":ci:"                                : @"\U0001F1E8\U0001F1EE", \
     @":cinema:"                            : @"\U0001F3A6", \
     @":circus_tent:"                       : @"\U0001F3AA", \
     @":city_sunrise:"                      : @"\U0001F307", \
     @":city_sunset:"                       : @"\U0001F306", \
+    @":ck:"                                : @"\U0001F1E8\U0001F1F0", \
     @":cl:"                                : @"\U0001F191", \
+    @":cl:"                                : @"\U0001F1E8\U0001F1F1", \
     @":clap:"                              : @"\U0001F44F", \
     @":clapper:"                           : @"\U0001F3AC", \
     @":clipboard:"                         : @"\U0001F4CB", \
@@ -194,6 +240,9 @@
     @":closed_umbrella:"                   : @"\U0001F302", \
     @":cloud:"                             : @"\U00002601", \
     @":clubs:"                             : @"\U00002663", \
+    @":cm:"                                : @"\U0001F1E8\U0001F1F2", \
+    @":cn:"                                : @"\U0001F1E8\U0001F1F3", \
+    @":co:"                                : @"\U0001F1E8\U0001F1F4", \
     @":cocktail:"                          : @"\U0001F378", \
     @":coffee:"                            : @"\U00002615", \
     @":cold_sweat:"                        : @"\U0001F630", \
@@ -216,6 +265,7 @@
     @":couplekiss:"                        : @"\U0001F48F", \
     @":cow:"                               : @"\U0001F42E", \
     @":cow2:"                              : @"\U0001F404", \
+    @":cr:"                                : @"\U0001F1E8\U0001F1F7", \
     @":credit_card:"                       : @"\U0001F4B3", \
     @":crescent_moon:"                     : @"\U0001F319", \
     @":crocodile:"                         : @"\U0001F40A", \
@@ -224,19 +274,26 @@
     @":cry:"                               : @"\U0001F622", \
     @":crying_cat_face:"                   : @"\U0001F63F", \
     @":crystal_ball:"                      : @"\U0001F52E", \
+    @":cu:"                                : @"\U0001F1E8\U0001F1FA", \
     @":cupid:"                             : @"\U0001F498", \
     @":curly_loop:"                        : @"\U000027B0", \
     @":currency_exchange:"                 : @"\U0001F4B1", \
     @":curry:"                             : @"\U0001F35B", \
     @":custard:"                           : @"\U0001F36E", \
     @":customs:"                           : @"\U0001F6C3", \
+    @":cv:"                                : @"\U0001F1E8\U0001F1FB", \
+    @":cw:"                                : @"\U0001F1E8\U0001F1FC", \
+    @":cx:"                                : @"\U0001F1E8\U0001F1FD", \
+    @":cy:"                                : @"\U0001F1E8\U0001F1FE", \
     @":cyclone:"                           : @"\U0001F300", \
+    @":cz:"                                : @"\U0001F1E8\U0001F1FF", \
     @":dancer:"                            : @"\U0001F483", \
     @":dancers:"                           : @"\U0001F46F", \
     @":dango:"                             : @"\U0001F361", \
     @":dart:"                              : @"\U0001F3AF", \
     @":dash:"                              : @"\U0001F4A8", \
     @":date:"                              : @"\U0001F4C5", \
+    @":de:"                                : @"\U0001F1E9\U0001F1EA", \
     @":deciduous_tree:"                    : @"\U0001F333", \
     @":department_store:"                  : @"\U0001F3EC", \
     @":diamond_shape_with_a_dot_inside:"   : @"\U0001F4A0", \
@@ -245,6 +302,10 @@
     @":disappointed_relieved:"             : @"\U0001F625", \
     @":dizzy:"                             : @"\U0001F4AB", \
     @":dizzy_face:"                        : @"\U0001F635", \
+    @":dj:"                                : @"\U0001F1E9\U0001F1EF", \
+    @":dk:"                                : @"\U0001F1E9\U0001F1F0", \
+    @":dm:"                                : @"\U0001F1E9\U0001F1F2", \
+    @":do:"                                : @"\U0001F1E9\U0001F1F4", \
     @":do_not_litter:"                     : @"\U0001F6AF", \
     @":dog:"                               : @"\U0001F436", \
     @":dog2:"                              : @"\U0001F415", \
@@ -259,14 +320,19 @@
     @":dromedary_camel:"                   : @"\U0001F42A", \
     @":droplet:"                           : @"\U0001F4A7", \
     @":dvd:"                               : @"\U0001F4C0", \
+    @":dz:"                                : @"\U0001F1E9\U0001F1FF", \
     @":e-mail:"                            : @"\U0001F4E7", \
     @":ear:"                               : @"\U0001F442", \
     @":ear_of_rice:"                       : @"\U0001F33E", \
     @":earth_africa:"                      : @"\U0001F30D", \
     @":earth_americas:"                    : @"\U0001F30E", \
     @":earth_asia:"                        : @"\U0001F30F", \
+    @":ec:"                                : @"\U0001F1EA\U0001F1E8", \
+    @":ee:"                                : @"\U0001F1EA\U0001F1EA", \
+    @":eg:"                                : @"\U0001F1EA\U0001F1EC", \
     @":egg:"                               : @"\U0001F373", \
     @":eggplant:"                          : @"\U0001F346", \
+    @":eh:"                                : @"\U0001F1EA\U0001F1ED", \
     @":eight_pointed_black_star:"          : @"\U00002734", \
     @":eight_spoked_asterisk:"             : @"\U00002733", \
     @":electric_plug:"                     : @"\U0001F50C", \
@@ -275,6 +341,9 @@
     @":end:"                               : @"\U0001F51A", \
     @":envelope:"                          : @"\U00002709", \
     @":envelope_with_arrow:"               : @"\U0001F4E9", \
+    @":er:"                                : @"\U0001F1EA\U0001F1F7", \
+    @":es:"                                : @"\U0001F1EA\U0001F1F8", \
+    @":et:"                                : @"\U0001F1EA\U0001F1F9", \
     @":euro:"                              : @"\U0001F4B6", \
     @":european_castle:"                   : @"\U0001F3F0", \
     @":european_post_office:"              : @"\U0001F3E4", \
@@ -292,6 +361,7 @@
     @":fearful:"                           : @"\U0001F628", \
     @":feet:"                              : @"\U0001F43E", \
     @":ferris_wheel:"                      : @"\U0001F3A1", \
+    @":fi:"                                : @"\U0001F1EB\U0001F1EE", \
     @":file_folder:"                       : @"\U0001F4C1", \
     @":fire:"                              : @"\U0001F525", \
     @":fire_engine:"                       : @"\U0001F692", \
@@ -302,18 +372,521 @@
     @":fish_cake:"                         : @"\U0001F365", \
     @":fishing_pole_and_fish:"             : @"\U0001F3A3", \
     @":fist:"                              : @"\U0000270A", \
+    @":fj:"                                : @"\U0001F1EB\U0001F1EF", \
+    @":fk:"                                : @"\U0001F1EB\U0001F1F0", \
+    @":flag-ad:"                           : @"\U0001F1E6\U0001F1E9", \
+    @":flag-ae:"                           : @"\U0001F1E6\U0001F1EA", \
+    @":flag-af:"                           : @"\U0001F1E6\U0001F1EB", \
+    @":flag-ag:"                           : @"\U0001F1E6\U0001F1EC", \
+    @":flag-ai:"                           : @"\U0001F1E6\U0001F1EE", \
+    @":flag-al:"                           : @"\U0001F1E6\U0001F1F1", \
+    @":flag-am:"                           : @"\U0001F1E6\U0001F1F2", \
+    @":flag-ao:"                           : @"\U0001F1E6\U0001F1F4", \
+    @":flag-aq:"                           : @"\U0001F1E6\U0001F1F6", \
+    @":flag-ar:"                           : @"\U0001F1E6\U0001F1F7", \
+    @":flag-as:"                           : @"\U0001F1E6\U0001F1F8", \
+    @":flag-at:"                           : @"\U0001F1E6\U0001F1F9", \
+    @":flag-au:"                           : @"\U0001F1E6\U0001F1FA", \
+    @":flag-aw:"                           : @"\U0001F1E6\U0001F1FC", \
+    @":flag-ax:"                           : @"\U0001F1E6\U0001F1FD", \
+    @":flag-az:"                           : @"\U0001F1E6\U0001F1FF", \
+    @":flag-ba:"                           : @"\U0001F1E7\U0001F1E6", \
+    @":flag-bb:"                           : @"\U0001F1E7\U0001F1E7", \
+    @":flag-bd:"                           : @"\U0001F1E7\U0001F1E9", \
+    @":flag-be:"                           : @"\U0001F1E7\U0001F1EA", \
+    @":flag-bf:"                           : @"\U0001F1E7\U0001F1EB", \
+    @":flag-bg:"                           : @"\U0001F1E7\U0001F1EC", \
+    @":flag-bh:"                           : @"\U0001F1E7\U0001F1ED", \
+    @":flag-bi:"                           : @"\U0001F1E7\U0001F1EE", \
+    @":flag-bj:"                           : @"\U0001F1E7\U0001F1EF", \
+    @":flag-bl:"                           : @"\U0001F1E7\U0001F1F1", \
+    @":flag-bm:"                           : @"\U0001F1E7\U0001F1F2", \
+    @":flag-bn:"                           : @"\U0001F1E7\U0001F1F3", \
+    @":flag-bo:"                           : @"\U0001F1E7\U0001F1F4", \
+    @":flag-bq:"                           : @"\U0001F1E7\U0001F1F6", \
+    @":flag-br:"                           : @"\U0001F1E7\U0001F1F7", \
+    @":flag-bs:"                           : @"\U0001F1E7\U0001F1F8", \
+    @":flag-bt:"                           : @"\U0001F1E7\U0001F1F9", \
+    @":flag-bv:"                           : @"\U0001F1E7\U0001F1FB", \
+    @":flag-bw:"                           : @"\U0001F1E7\U0001F1FC", \
+    @":flag-by:"                           : @"\U0001F1E7\U0001F1FE", \
+    @":flag-bz:"                           : @"\U0001F1E7\U0001F1FF", \
+    @":flag-ca:"                           : @"\U0001F1E8\U0001F1E6", \
+    @":flag-cc:"                           : @"\U0001F1E8\U0001F1E8", \
+    @":flag-cd:"                           : @"\U0001F1E8\U0001F1E9", \
+    @":flag-cf:"                           : @"\U0001F1E8\U0001F1EB", \
+    @":flag-cg:"                           : @"\U0001F1E8\U0001F1EC", \
+    @":flag-ch:"                           : @"\U0001F1E8\U0001F1ED", \
+    @":flag-ci:"                           : @"\U0001F1E8\U0001F1EE", \
+    @":flag-ck:"                           : @"\U0001F1E8\U0001F1F0", \
+    @":flag-cl:"                           : @"\U0001F1E8\U0001F1F1", \
+    @":flag-cm:"                           : @"\U0001F1E8\U0001F1F2", \
+    @":flag-cn:"                           : @"\U0001F1E8\U0001F1F3", \
+    @":flag-co:"                           : @"\U0001F1E8\U0001F1F4", \
+    @":flag-cr:"                           : @"\U0001F1E8\U0001F1F7", \
+    @":flag-cu:"                           : @"\U0001F1E8\U0001F1FA", \
+    @":flag-cv:"                           : @"\U0001F1E8\U0001F1FB", \
+    @":flag-cw:"                           : @"\U0001F1E8\U0001F1FC", \
+    @":flag-cx:"                           : @"\U0001F1E8\U0001F1FD", \
+    @":flag-cy:"                           : @"\U0001F1E8\U0001F1FE", \
+    @":flag-cz:"                           : @"\U0001F1E8\U0001F1FF", \
+    @":flag-de:"                           : @"\U0001F1E9\U0001F1EA", \
+    @":flag-dj:"                           : @"\U0001F1E9\U0001F1EF", \
+    @":flag-dk:"                           : @"\U0001F1E9\U0001F1F0", \
+    @":flag-dm:"                           : @"\U0001F1E9\U0001F1F2", \
+    @":flag-do:"                           : @"\U0001F1E9\U0001F1F4", \
+    @":flag-dz:"                           : @"\U0001F1E9\U0001F1FF", \
+    @":flag-ec:"                           : @"\U0001F1EA\U0001F1E8", \
+    @":flag-ee:"                           : @"\U0001F1EA\U0001F1EA", \
+    @":flag-eg:"                           : @"\U0001F1EA\U0001F1EC", \
+    @":flag-eh:"                           : @"\U0001F1EA\U0001F1ED", \
+    @":flag-er:"                           : @"\U0001F1EA\U0001F1F7", \
+    @":flag-es:"                           : @"\U0001F1EA\U0001F1F8", \
+    @":flag-et:"                           : @"\U0001F1EA\U0001F1F9", \
+    @":flag-fi:"                           : @"\U0001F1EB\U0001F1EE", \
+    @":flag-fj:"                           : @"\U0001F1EB\U0001F1EF", \
+    @":flag-fk:"                           : @"\U0001F1EB\U0001F1F0", \
+    @":flag-fm:"                           : @"\U0001F1EB\U0001F1F2", \
+    @":flag-fo:"                           : @"\U0001F1EB\U0001F1F4", \
+    @":flag-fr:"                           : @"\U0001F1EB\U0001F1F7", \
+    @":flag-ga:"                           : @"\U0001F1EC\U0001F1E6", \
+    @":flag-gb:"                           : @"\U0001F1EC\U0001F1E7", \
+    @":flag-gd:"                           : @"\U0001F1EC\U0001F1E9", \
+    @":flag-ge:"                           : @"\U0001F1EC\U0001F1EA", \
+    @":flag-gf:"                           : @"\U0001F1EC\U0001F1EB", \
+    @":flag-gg:"                           : @"\U0001F1EC\U0001F1EC", \
+    @":flag-gh:"                           : @"\U0001F1EC\U0001F1ED", \
+    @":flag-gi:"                           : @"\U0001F1EC\U0001F1EE", \
+    @":flag-gl:"                           : @"\U0001F1EC\U0001F1F1", \
+    @":flag-gm:"                           : @"\U0001F1EC\U0001F1F2", \
+    @":flag-gn:"                           : @"\U0001F1EC\U0001F1F3", \
+    @":flag-gp:"                           : @"\U0001F1EC\U0001F1F5", \
+    @":flag-gq:"                           : @"\U0001F1EC\U0001F1F6", \
+    @":flag-gr:"                           : @"\U0001F1EC\U0001F1F7", \
+    @":flag-gs:"                           : @"\U0001F1EC\U0001F1F8", \
+    @":flag-gt:"                           : @"\U0001F1EC\U0001F1F9", \
+    @":flag-gu:"                           : @"\U0001F1EC\U0001F1FA", \
+    @":flag-gw:"                           : @"\U0001F1EC\U0001F1FC", \
+    @":flag-gy:"                           : @"\U0001F1EC\U0001F1FE", \
+    @":flag-hk:"                           : @"\U0001F1ED\U0001F1F0", \
+    @":flag-hm:"                           : @"\U0001F1ED\U0001F1F2", \
+    @":flag-hn:"                           : @"\U0001F1ED\U0001F1F3", \
+    @":flag-hr:"                           : @"\U0001F1ED\U0001F1F7", \
+    @":flag-ht:"                           : @"\U0001F1ED\U0001F1F9", \
+    @":flag-hu:"                           : @"\U0001F1ED\U0001F1FA", \
+    @":flag-id:"                           : @"\U0001F1EE\U0001F1E9", \
+    @":flag-ie:"                           : @"\U0001F1EE\U0001F1EA", \
+    @":flag-il:"                           : @"\U0001F1EE\U0001F1F1", \
+    @":flag-im:"                           : @"\U0001F1EE\U0001F1F2", \
+    @":flag-in:"                           : @"\U0001F1EE\U0001F1F3", \
+    @":flag-io:"                           : @"\U0001F1EE\U0001F1F4", \
+    @":flag-iq:"                           : @"\U0001F1EE\U0001F1F6", \
+    @":flag-ir:"                           : @"\U0001F1EE\U0001F1F7", \
+    @":flag-is:"                           : @"\U0001F1EE\U0001F1F8", \
+    @":flag-it:"                           : @"\U0001F1EE\U0001F1F9", \
+    @":flag-je:"                           : @"\U0001F1EF\U0001F1EA", \
+    @":flag-jm:"                           : @"\U0001F1EF\U0001F1F2", \
+    @":flag-jo:"                           : @"\U0001F1EF\U0001F1F4", \
+    @":flag-jp:"                           : @"\U0001F1EF\U0001F1F5", \
+    @":flag-ke:"                           : @"\U0001F1F0\U0001F1EA", \
+    @":flag-kg:"                           : @"\U0001F1F0\U0001F1EC", \
+    @":flag-kh:"                           : @"\U0001F1F0\U0001F1ED", \
+    @":flag-ki:"                           : @"\U0001F1F0\U0001F1EE", \
+    @":flag-km:"                           : @"\U0001F1F0\U0001F1F2", \
+    @":flag-kn:"                           : @"\U0001F1F0\U0001F1F3", \
+    @":flag-kp:"                           : @"\U0001F1F0\U0001F1F5", \
+    @":flag-kr:"                           : @"\U0001F1F0\U0001F1F7", \
+    @":flag-kw:"                           : @"\U0001F1F0\U0001F1FC", \
+    @":flag-ky:"                           : @"\U0001F1F0\U0001F1FE", \
+    @":flag-kz:"                           : @"\U0001F1F0\U0001F1FF", \
+    @":flag-la:"                           : @"\U0001F1F1\U0001F1E6", \
+    @":flag-lb:"                           : @"\U0001F1F1\U0001F1E7", \
+    @":flag-lc:"                           : @"\U0001F1F1\U0001F1E8", \
+    @":flag-li:"                           : @"\U0001F1F1\U0001F1EE", \
+    @":flag-lk:"                           : @"\U0001F1F1\U0001F1F0", \
+    @":flag-lr:"                           : @"\U0001F1F1\U0001F1F7", \
+    @":flag-ls:"                           : @"\U0001F1F1\U0001F1F8", \
+    @":flag-lt:"                           : @"\U0001F1F1\U0001F1F9", \
+    @":flag-lu:"                           : @"\U0001F1F1\U0001F1FA", \
+    @":flag-lv:"                           : @"\U0001F1F1\U0001F1FB", \
+    @":flag-ly:"                           : @"\U0001F1F1\U0001F1FE", \
+    @":flag-ma:"                           : @"\U0001F1F2\U0001F1E6", \
+    @":flag-mc:"                           : @"\U0001F1F2\U0001F1E8", \
+    @":flag-md:"                           : @"\U0001F1F2\U0001F1E9", \
+    @":flag-me:"                           : @"\U0001F1F2\U0001F1EA", \
+    @":flag-mf:"                           : @"\U0001F1F2\U0001F1EB", \
+    @":flag-mg:"                           : @"\U0001F1F2\U0001F1EC", \
+    @":flag-mh:"                           : @"\U0001F1F2\U0001F1ED", \
+    @":flag-mk:"                           : @"\U0001F1F2\U0001F1F0", \
+    @":flag-ml:"                           : @"\U0001F1F2\U0001F1F1", \
+    @":flag-mm:"                           : @"\U0001F1F2\U0001F1F2", \
+    @":flag-mn:"                           : @"\U0001F1F2\U0001F1F3", \
+    @":flag-mo:"                           : @"\U0001F1F2\U0001F1F4", \
+    @":flag-mp:"                           : @"\U0001F1F2\U0001F1F5", \
+    @":flag-mq:"                           : @"\U0001F1F2\U0001F1F6", \
+    @":flag-mr:"                           : @"\U0001F1F2\U0001F1F7", \
+    @":flag-ms:"                           : @"\U0001F1F2\U0001F1F8", \
+    @":flag-mt:"                           : @"\U0001F1F2\U0001F1F9", \
+    @":flag-mu:"                           : @"\U0001F1F2\U0001F1FA", \
+    @":flag-mv:"                           : @"\U0001F1F2\U0001F1FB", \
+    @":flag-mw:"                           : @"\U0001F1F2\U0001F1FC", \
+    @":flag-mx:"                           : @"\U0001F1F2\U0001F1FD", \
+    @":flag-my:"                           : @"\U0001F1F2\U0001F1FE", \
+    @":flag-mz:"                           : @"\U0001F1F2\U0001F1FF", \
+    @":flag-na:"                           : @"\U0001F1F3\U0001F1E6", \
+    @":flag-nc:"                           : @"\U0001F1F3\U0001F1E8", \
+    @":flag-ne:"                           : @"\U0001F1F3\U0001F1EA", \
+    @":flag-nf:"                           : @"\U0001F1F3\U0001F1EB", \
+    @":flag-ng:"                           : @"\U0001F1F3\U0001F1EC", \
+    @":flag-ni:"                           : @"\U0001F1F3\U0001F1EE", \
+    @":flag-nl:"                           : @"\U0001F1F3\U0001F1F1", \
+    @":flag-no:"                           : @"\U0001F1F3\U0001F1F4", \
+    @":flag-np:"                           : @"\U0001F1F3\U0001F1F5", \
+    @":flag-nr:"                           : @"\U0001F1F3\U0001F1F7", \
+    @":flag-nu:"                           : @"\U0001F1F3\U0001F1FA", \
+    @":flag-nz:"                           : @"\U0001F1F3\U0001F1FF", \
+    @":flag-om:"                           : @"\U0001F1F4\U0001F1F2", \
+    @":flag-pa:"                           : @"\U0001F1F5\U0001F1E6", \
+    @":flag-pe:"                           : @"\U0001F1F5\U0001F1EA", \
+    @":flag-pf:"                           : @"\U0001F1F5\U0001F1EB", \
+    @":flag-pg:"                           : @"\U0001F1F5\U0001F1EC", \
+    @":flag-ph:"                           : @"\U0001F1F5\U0001F1ED", \
+    @":flag-pk:"                           : @"\U0001F1F5\U0001F1F0", \
+    @":flag-pl:"                           : @"\U0001F1F5\U0001F1F1", \
+    @":flag-pm:"                           : @"\U0001F1F5\U0001F1F2", \
+    @":flag-pn:"                           : @"\U0001F1F5\U0001F1F3", \
+    @":flag-pr:"                           : @"\U0001F1F5\U0001F1F7", \
+    @":flag-ps:"                           : @"\U0001F1F5\U0001F1F8", \
+    @":flag-pt:"                           : @"\U0001F1F5\U0001F1F9", \
+    @":flag-pw:"                           : @"\U0001F1F5\U0001F1FC", \
+    @":flag-py:"                           : @"\U0001F1F5\U0001F1FE", \
+    @":flag-qa:"                           : @"\U0001F1F6\U0001F1E6", \
+    @":flag-re:"                           : @"\U0001F1F7\U0001F1EA", \
+    @":flag-ro:"                           : @"\U0001F1F7\U0001F1F4", \
+    @":flag-rs:"                           : @"\U0001F1F7\U0001F1F8", \
+    @":flag-ru:"                           : @"\U0001F1F7\U0001F1FA", \
+    @":flag-rw:"                           : @"\U0001F1F7\U0001F1FC", \
+    @":flag-sa:"                           : @"\U0001F1F8\U0001F1E6", \
+    @":flag-sb:"                           : @"\U0001F1F8\U0001F1E7", \
+    @":flag-sc:"                           : @"\U0001F1F8\U0001F1E8", \
+    @":flag-sd:"                           : @"\U0001F1F8\U0001F1E9", \
+    @":flag-se:"                           : @"\U0001F1F8\U0001F1EA", \
+    @":flag-sg:"                           : @"\U0001F1F8\U0001F1EC", \
+    @":flag-sh:"                           : @"\U0001F1F8\U0001F1ED", \
+    @":flag-si:"                           : @"\U0001F1F8\U0001F1EE", \
+    @":flag-sj:"                           : @"\U0001F1F8\U0001F1EF", \
+    @":flag-sk:"                           : @"\U0001F1F8\U0001F1F0", \
+    @":flag-sl:"                           : @"\U0001F1F8\U0001F1F1", \
+    @":flag-sm:"                           : @"\U0001F1F8\U0001F1F2", \
+    @":flag-sn:"                           : @"\U0001F1F8\U0001F1F3", \
+    @":flag-so:"                           : @"\U0001F1F8\U0001F1F4", \
+    @":flag-sr:"                           : @"\U0001F1F8\U0001F1F7", \
+    @":flag-ss:"                           : @"\U0001F1F8\U0001F1F8", \
+    @":flag-st:"                           : @"\U0001F1F8\U0001F1F9", \
+    @":flag-sv:"                           : @"\U0001F1F8\U0001F1FB", \
+    @":flag-sx:"                           : @"\U0001F1F8\U0001F1FD", \
+    @":flag-sy:"                           : @"\U0001F1F8\U0001F1FE", \
+    @":flag-sz:"                           : @"\U0001F1F8\U0001F1FF", \
+    @":flag-tc:"                           : @"\U0001F1F9\U0001F1E8", \
+    @":flag-td:"                           : @"\U0001F1F9\U0001F1E9", \
+    @":flag-tf:"                           : @"\U0001F1F9\U0001F1EB", \
+    @":flag-tg:"                           : @"\U0001F1F9\U0001F1EC", \
+    @":flag-th:"                           : @"\U0001F1F9\U0001F1ED", \
+    @":flag-tj:"                           : @"\U0001F1F9\U0001F1EF", \
+    @":flag-tk:"                           : @"\U0001F1F9\U0001F1F0", \
+    @":flag-tl:"                           : @"\U0001F1F9\U0001F1F1", \
+    @":flag-tm:"                           : @"\U0001F1F9\U0001F1F2", \
+    @":flag-tn:"                           : @"\U0001F1F9\U0001F1F3", \
+    @":flag-to:"                           : @"\U0001F1F9\U0001F1F4", \
+    @":flag-tr:"                           : @"\U0001F1F9\U0001F1F7", \
+    @":flag-tt:"                           : @"\U0001F1F9\U0001F1F9", \
+    @":flag-tv:"                           : @"\U0001F1F9\U0001F1FB", \
+    @":flag-tw:"                           : @"\U0001F1F9\U0001F1FC", \
+    @":flag-tz:"                           : @"\U0001F1F9\U0001F1FF", \
+    @":flag-ua:"                           : @"\U0001F1FA\U0001F1E6", \
+    @":flag-ug:"                           : @"\U0001F1FA\U0001F1EC", \
+    @":flag-um:"                           : @"\U0001F1FA\U0001F1F2", \
+    @":flag-us:"                           : @"\U0001F1FA\U0001F1F8", \
+    @":flag-uy:"                           : @"\U0001F1FA\U0001F1FE", \
+    @":flag-uz:"                           : @"\U0001F1FA\U0001F1FF", \
+    @":flag-va:"                           : @"\U0001F1FB\U0001F1E6", \
+    @":flag-vc:"                           : @"\U0001F1FB\U0001F1E8", \
+    @":flag-ve:"                           : @"\U0001F1FB\U0001F1EA", \
+    @":flag-vg:"                           : @"\U0001F1FB\U0001F1EC", \
+    @":flag-vi:"                           : @"\U0001F1FB\U0001F1EE", \
+    @":flag-vn:"                           : @"\U0001F1FB\U0001F1F3", \
+    @":flag-vu:"                           : @"\U0001F1FB\U0001F1FA", \
+    @":flag-wf:"                           : @"\U0001F1FC\U0001F1EB", \
+    @":flag-ws:"                           : @"\U0001F1FC\U0001F1F8", \
+    @":flag-ye:"                           : @"\U0001F1FE\U0001F1EA", \
+    @":flag-yt:"                           : @"\U0001F1FE\U0001F1F9", \
+    @":flag-za:"                           : @"\U0001F1FF\U0001F1E6", \
+    @":flag-zm:"                           : @"\U0001F1FF\U0001F1F2", \
+    @":flag-zw:"                           : @"\U0001F1FF\U0001F1FC", \
+    @":flag_ad:"                           : @"\U0001F1E6\U0001F1E9", \
+    @":flag_ae:"                           : @"\U0001F1E6\U0001F1EA", \
+    @":flag_af:"                           : @"\U0001F1E6\U0001F1EB", \
+    @":flag_ag:"                           : @"\U0001F1E6\U0001F1EC", \
+    @":flag_ai:"                           : @"\U0001F1E6\U0001F1EE", \
+    @":flag_al:"                           : @"\U0001F1E6\U0001F1F1", \
+    @":flag_am:"                           : @"\U0001F1E6\U0001F1F2", \
+    @":flag_ao:"                           : @"\U0001F1E6\U0001F1F4", \
+    @":flag_aq:"                           : @"\U0001F1E6\U0001F1F6", \
+    @":flag_ar:"                           : @"\U0001F1E6\U0001F1F7", \
+    @":flag_as:"                           : @"\U0001F1E6\U0001F1F8", \
+    @":flag_at:"                           : @"\U0001F1E6\U0001F1F9", \
+    @":flag_au:"                           : @"\U0001F1E6\U0001F1FA", \
+    @":flag_aw:"                           : @"\U0001F1E6\U0001F1FC", \
+    @":flag_ax:"                           : @"\U0001F1E6\U0001F1FD", \
+    @":flag_az:"                           : @"\U0001F1E6\U0001F1FF", \
+    @":flag_ba:"                           : @"\U0001F1E7\U0001F1E6", \
+    @":flag_bb:"                           : @"\U0001F1E7\U0001F1E7", \
+    @":flag_bd:"                           : @"\U0001F1E7\U0001F1E9", \
+    @":flag_be:"                           : @"\U0001F1E7\U0001F1EA", \
+    @":flag_bf:"                           : @"\U0001F1E7\U0001F1EB", \
+    @":flag_bg:"                           : @"\U0001F1E7\U0001F1EC", \
+    @":flag_bh:"                           : @"\U0001F1E7\U0001F1ED", \
+    @":flag_bi:"                           : @"\U0001F1E7\U0001F1EE", \
+    @":flag_bj:"                           : @"\U0001F1E7\U0001F1EF", \
+    @":flag_bl:"                           : @"\U0001F1E7\U0001F1F1", \
+    @":flag_bm:"                           : @"\U0001F1E7\U0001F1F2", \
+    @":flag_bn:"                           : @"\U0001F1E7\U0001F1F3", \
+    @":flag_bo:"                           : @"\U0001F1E7\U0001F1F4", \
+    @":flag_bq:"                           : @"\U0001F1E7\U0001F1F6", \
+    @":flag_br:"                           : @"\U0001F1E7\U0001F1F7", \
+    @":flag_bs:"                           : @"\U0001F1E7\U0001F1F8", \
+    @":flag_bt:"                           : @"\U0001F1E7\U0001F1F9", \
+    @":flag_bv:"                           : @"\U0001F1E7\U0001F1FB", \
+    @":flag_bw:"                           : @"\U0001F1E7\U0001F1FC", \
+    @":flag_by:"                           : @"\U0001F1E7\U0001F1FE", \
+    @":flag_bz:"                           : @"\U0001F1E7\U0001F1FF", \
+    @":flag_ca:"                           : @"\U0001F1E8\U0001F1E6", \
+    @":flag_cc:"                           : @"\U0001F1E8\U0001F1E8", \
+    @":flag_cd:"                           : @"\U0001F1E8\U0001F1E9", \
+    @":flag_cf:"                           : @"\U0001F1E8\U0001F1EB", \
+    @":flag_cg:"                           : @"\U0001F1E8\U0001F1EC", \
+    @":flag_ch:"                           : @"\U0001F1E8\U0001F1ED", \
+    @":flag_ci:"                           : @"\U0001F1E8\U0001F1EE", \
+    @":flag_ck:"                           : @"\U0001F1E8\U0001F1F0", \
+    @":flag_cl:"                           : @"\U0001F1E8\U0001F1F1", \
+    @":flag_cm:"                           : @"\U0001F1E8\U0001F1F2", \
+    @":flag_cn:"                           : @"\U0001F1E8\U0001F1F3", \
+    @":flag_co:"                           : @"\U0001F1E8\U0001F1F4", \
+    @":flag_cr:"                           : @"\U0001F1E8\U0001F1F7", \
+    @":flag_cu:"                           : @"\U0001F1E8\U0001F1FA", \
+    @":flag_cv:"                           : @"\U0001F1E8\U0001F1FB", \
+    @":flag_cw:"                           : @"\U0001F1E8\U0001F1FC", \
+    @":flag_cx:"                           : @"\U0001F1E8\U0001F1FD", \
+    @":flag_cy:"                           : @"\U0001F1E8\U0001F1FE", \
+    @":flag_cz:"                           : @"\U0001F1E8\U0001F1FF", \
+    @":flag_de:"                           : @"\U0001F1E9\U0001F1EA", \
+    @":flag_dj:"                           : @"\U0001F1E9\U0001F1EF", \
+    @":flag_dk:"                           : @"\U0001F1E9\U0001F1F0", \
+    @":flag_dm:"                           : @"\U0001F1E9\U0001F1F2", \
+    @":flag_do:"                           : @"\U0001F1E9\U0001F1F4", \
+    @":flag_dz:"                           : @"\U0001F1E9\U0001F1FF", \
+    @":flag_ec:"                           : @"\U0001F1EA\U0001F1E8", \
+    @":flag_ee:"                           : @"\U0001F1EA\U0001F1EA", \
+    @":flag_eg:"                           : @"\U0001F1EA\U0001F1EC", \
+    @":flag_eh:"                           : @"\U0001F1EA\U0001F1ED", \
+    @":flag_er:"                           : @"\U0001F1EA\U0001F1F7", \
+    @":flag_es:"                           : @"\U0001F1EA\U0001F1F8", \
+    @":flag_et:"                           : @"\U0001F1EA\U0001F1F9", \
+    @":flag_fi:"                           : @"\U0001F1EB\U0001F1EE", \
+    @":flag_fj:"                           : @"\U0001F1EB\U0001F1EF", \
+    @":flag_fk:"                           : @"\U0001F1EB\U0001F1F0", \
+    @":flag_fm:"                           : @"\U0001F1EB\U0001F1F2", \
+    @":flag_fo:"                           : @"\U0001F1EB\U0001F1F4", \
+    @":flag_fr:"                           : @"\U0001F1EB\U0001F1F7", \
+    @":flag_ga:"                           : @"\U0001F1EC\U0001F1E6", \
+    @":flag_gb:"                           : @"\U0001F1EC\U0001F1E7", \
+    @":flag_gd:"                           : @"\U0001F1EC\U0001F1E9", \
+    @":flag_ge:"                           : @"\U0001F1EC\U0001F1EA", \
+    @":flag_gf:"                           : @"\U0001F1EC\U0001F1EB", \
+    @":flag_gg:"                           : @"\U0001F1EC\U0001F1EC", \
+    @":flag_gh:"                           : @"\U0001F1EC\U0001F1ED", \
+    @":flag_gi:"                           : @"\U0001F1EC\U0001F1EE", \
+    @":flag_gl:"                           : @"\U0001F1EC\U0001F1F1", \
+    @":flag_gm:"                           : @"\U0001F1EC\U0001F1F2", \
+    @":flag_gn:"                           : @"\U0001F1EC\U0001F1F3", \
+    @":flag_gp:"                           : @"\U0001F1EC\U0001F1F5", \
+    @":flag_gq:"                           : @"\U0001F1EC\U0001F1F6", \
+    @":flag_gr:"                           : @"\U0001F1EC\U0001F1F7", \
+    @":flag_gs:"                           : @"\U0001F1EC\U0001F1F8", \
+    @":flag_gt:"                           : @"\U0001F1EC\U0001F1F9", \
+    @":flag_gu:"                           : @"\U0001F1EC\U0001F1FA", \
+    @":flag_gw:"                           : @"\U0001F1EC\U0001F1FC", \
+    @":flag_gy:"                           : @"\U0001F1EC\U0001F1FE", \
+    @":flag_hk:"                           : @"\U0001F1ED\U0001F1F0", \
+    @":flag_hm:"                           : @"\U0001F1ED\U0001F1F2", \
+    @":flag_hn:"                           : @"\U0001F1ED\U0001F1F3", \
+    @":flag_hr:"                           : @"\U0001F1ED\U0001F1F7", \
+    @":flag_ht:"                           : @"\U0001F1ED\U0001F1F9", \
+    @":flag_hu:"                           : @"\U0001F1ED\U0001F1FA", \
+    @":flag_id:"                           : @"\U0001F1EE\U0001F1E9", \
+    @":flag_ie:"                           : @"\U0001F1EE\U0001F1EA", \
+    @":flag_il:"                           : @"\U0001F1EE\U0001F1F1", \
+    @":flag_im:"                           : @"\U0001F1EE\U0001F1F2", \
+    @":flag_in:"                           : @"\U0001F1EE\U0001F1F3", \
+    @":flag_io:"                           : @"\U0001F1EE\U0001F1F4", \
+    @":flag_iq:"                           : @"\U0001F1EE\U0001F1F6", \
+    @":flag_ir:"                           : @"\U0001F1EE\U0001F1F7", \
+    @":flag_is:"                           : @"\U0001F1EE\U0001F1F8", \
+    @":flag_it:"                           : @"\U0001F1EE\U0001F1F9", \
+    @":flag_je:"                           : @"\U0001F1EF\U0001F1EA", \
+    @":flag_jm:"                           : @"\U0001F1EF\U0001F1F2", \
+    @":flag_jo:"                           : @"\U0001F1EF\U0001F1F4", \
+    @":flag_jp:"                           : @"\U0001F1EF\U0001F1F5", \
+    @":flag_ke:"                           : @"\U0001F1F0\U0001F1EA", \
+    @":flag_kg:"                           : @"\U0001F1F0\U0001F1EC", \
+    @":flag_kh:"                           : @"\U0001F1F0\U0001F1ED", \
+    @":flag_ki:"                           : @"\U0001F1F0\U0001F1EE", \
+    @":flag_km:"                           : @"\U0001F1F0\U0001F1F2", \
+    @":flag_kn:"                           : @"\U0001F1F0\U0001F1F3", \
+    @":flag_kp:"                           : @"\U0001F1F0\U0001F1F5", \
+    @":flag_kr:"                           : @"\U0001F1F0\U0001F1F7", \
+    @":flag_kw:"                           : @"\U0001F1F0\U0001F1FC", \
+    @":flag_ky:"                           : @"\U0001F1F0\U0001F1FE", \
+    @":flag_kz:"                           : @"\U0001F1F0\U0001F1FF", \
+    @":flag_la:"                           : @"\U0001F1F1\U0001F1E6", \
+    @":flag_lb:"                           : @"\U0001F1F1\U0001F1E7", \
+    @":flag_lc:"                           : @"\U0001F1F1\U0001F1E8", \
+    @":flag_li:"                           : @"\U0001F1F1\U0001F1EE", \
+    @":flag_lk:"                           : @"\U0001F1F1\U0001F1F0", \
+    @":flag_lr:"                           : @"\U0001F1F1\U0001F1F7", \
+    @":flag_ls:"                           : @"\U0001F1F1\U0001F1F8", \
+    @":flag_lt:"                           : @"\U0001F1F1\U0001F1F9", \
+    @":flag_lu:"                           : @"\U0001F1F1\U0001F1FA", \
+    @":flag_lv:"                           : @"\U0001F1F1\U0001F1FB", \
+    @":flag_ly:"                           : @"\U0001F1F1\U0001F1FE", \
+    @":flag_ma:"                           : @"\U0001F1F2\U0001F1E6", \
+    @":flag_mc:"                           : @"\U0001F1F2\U0001F1E8", \
+    @":flag_md:"                           : @"\U0001F1F2\U0001F1E9", \
+    @":flag_me:"                           : @"\U0001F1F2\U0001F1EA", \
+    @":flag_mf:"                           : @"\U0001F1F2\U0001F1EB", \
+    @":flag_mg:"                           : @"\U0001F1F2\U0001F1EC", \
+    @":flag_mh:"                           : @"\U0001F1F2\U0001F1ED", \
+    @":flag_mk:"                           : @"\U0001F1F2\U0001F1F0", \
+    @":flag_ml:"                           : @"\U0001F1F2\U0001F1F1", \
+    @":flag_mm:"                           : @"\U0001F1F2\U0001F1F2", \
+    @":flag_mn:"                           : @"\U0001F1F2\U0001F1F3", \
+    @":flag_mo:"                           : @"\U0001F1F2\U0001F1F4", \
+    @":flag_mp:"                           : @"\U0001F1F2\U0001F1F5", \
+    @":flag_mq:"                           : @"\U0001F1F2\U0001F1F6", \
+    @":flag_mr:"                           : @"\U0001F1F2\U0001F1F7", \
+    @":flag_ms:"                           : @"\U0001F1F2\U0001F1F8", \
+    @":flag_mt:"                           : @"\U0001F1F2\U0001F1F9", \
+    @":flag_mu:"                           : @"\U0001F1F2\U0001F1FA", \
+    @":flag_mv:"                           : @"\U0001F1F2\U0001F1FB", \
+    @":flag_mw:"                           : @"\U0001F1F2\U0001F1FC", \
+    @":flag_mx:"                           : @"\U0001F1F2\U0001F1FD", \
+    @":flag_my:"                           : @"\U0001F1F2\U0001F1FE", \
+    @":flag_mz:"                           : @"\U0001F1F2\U0001F1FF", \
+    @":flag_na:"                           : @"\U0001F1F3\U0001F1E6", \
+    @":flag_nc:"                           : @"\U0001F1F3\U0001F1E8", \
+    @":flag_ne:"                           : @"\U0001F1F3\U0001F1EA", \
+    @":flag_nf:"                           : @"\U0001F1F3\U0001F1EB", \
+    @":flag_ng:"                           : @"\U0001F1F3\U0001F1EC", \
+    @":flag_ni:"                           : @"\U0001F1F3\U0001F1EE", \
+    @":flag_nl:"                           : @"\U0001F1F3\U0001F1F1", \
+    @":flag_no:"                           : @"\U0001F1F3\U0001F1F4", \
+    @":flag_np:"                           : @"\U0001F1F3\U0001F1F5", \
+    @":flag_nr:"                           : @"\U0001F1F3\U0001F1F7", \
+    @":flag_nu:"                           : @"\U0001F1F3\U0001F1FA", \
+    @":flag_nz:"                           : @"\U0001F1F3\U0001F1FF", \
+    @":flag_om:"                           : @"\U0001F1F4\U0001F1F2", \
+    @":flag_pa:"                           : @"\U0001F1F5\U0001F1E6", \
+    @":flag_pe:"                           : @"\U0001F1F5\U0001F1EA", \
+    @":flag_pf:"                           : @"\U0001F1F5\U0001F1EB", \
+    @":flag_pg:"                           : @"\U0001F1F5\U0001F1EC", \
+    @":flag_ph:"                           : @"\U0001F1F5\U0001F1ED", \
+    @":flag_pk:"                           : @"\U0001F1F5\U0001F1F0", \
+    @":flag_pl:"                           : @"\U0001F1F5\U0001F1F1", \
+    @":flag_pm:"                           : @"\U0001F1F5\U0001F1F2", \
+    @":flag_pn:"                           : @"\U0001F1F5\U0001F1F3", \
+    @":flag_pr:"                           : @"\U0001F1F5\U0001F1F7", \
+    @":flag_ps:"                           : @"\U0001F1F5\U0001F1F8", \
+    @":flag_pt:"                           : @"\U0001F1F5\U0001F1F9", \
+    @":flag_pw:"                           : @"\U0001F1F5\U0001F1FC", \
+    @":flag_py:"                           : @"\U0001F1F5\U0001F1FE", \
+    @":flag_qa:"                           : @"\U0001F1F6\U0001F1E6", \
+    @":flag_re:"                           : @"\U0001F1F7\U0001F1EA", \
+    @":flag_ro:"                           : @"\U0001F1F7\U0001F1F4", \
+    @":flag_rs:"                           : @"\U0001F1F7\U0001F1F8", \
+    @":flag_ru:"                           : @"\U0001F1F7\U0001F1FA", \
+    @":flag_rw:"                           : @"\U0001F1F7\U0001F1FC", \
+    @":flag_sa:"                           : @"\U0001F1F8\U0001F1E6", \
+    @":flag_sb:"                           : @"\U0001F1F8\U0001F1E7", \
+    @":flag_sc:"                           : @"\U0001F1F8\U0001F1E8", \
+    @":flag_sd:"                           : @"\U0001F1F8\U0001F1E9", \
+    @":flag_se:"                           : @"\U0001F1F8\U0001F1EA", \
+    @":flag_sg:"                           : @"\U0001F1F8\U0001F1EC", \
+    @":flag_sh:"                           : @"\U0001F1F8\U0001F1ED", \
+    @":flag_si:"                           : @"\U0001F1F8\U0001F1EE", \
+    @":flag_sj:"                           : @"\U0001F1F8\U0001F1EF", \
+    @":flag_sk:"                           : @"\U0001F1F8\U0001F1F0", \
+    @":flag_sl:"                           : @"\U0001F1F8\U0001F1F1", \
+    @":flag_sm:"                           : @"\U0001F1F8\U0001F1F2", \
+    @":flag_sn:"                           : @"\U0001F1F8\U0001F1F3", \
+    @":flag_so:"                           : @"\U0001F1F8\U0001F1F4", \
+    @":flag_sr:"                           : @"\U0001F1F8\U0001F1F7", \
+    @":flag_ss:"                           : @"\U0001F1F8\U0001F1F8", \
+    @":flag_st:"                           : @"\U0001F1F8\U0001F1F9", \
+    @":flag_sv:"                           : @"\U0001F1F8\U0001F1FB", \
+    @":flag_sx:"                           : @"\U0001F1F8\U0001F1FD", \
+    @":flag_sy:"                           : @"\U0001F1F8\U0001F1FE", \
+    @":flag_sz:"                           : @"\U0001F1F8\U0001F1FF", \
+    @":flag_tc:"                           : @"\U0001F1F9\U0001F1E8", \
+    @":flag_td:"                           : @"\U0001F1F9\U0001F1E9", \
+    @":flag_tf:"                           : @"\U0001F1F9\U0001F1EB", \
+    @":flag_tg:"                           : @"\U0001F1F9\U0001F1EC", \
+    @":flag_th:"                           : @"\U0001F1F9\U0001F1ED", \
+    @":flag_tj:"                           : @"\U0001F1F9\U0001F1EF", \
+    @":flag_tk:"                           : @"\U0001F1F9\U0001F1F0", \
+    @":flag_tl:"                           : @"\U0001F1F9\U0001F1F1", \
+    @":flag_tm:"                           : @"\U0001F1F9\U0001F1F2", \
+    @":flag_tn:"                           : @"\U0001F1F9\U0001F1F3", \
+    @":flag_to:"                           : @"\U0001F1F9\U0001F1F4", \
+    @":flag_tr:"                           : @"\U0001F1F9\U0001F1F7", \
+    @":flag_tt:"                           : @"\U0001F1F9\U0001F1F9", \
+    @":flag_tv:"                           : @"\U0001F1F9\U0001F1FB", \
+    @":flag_tw:"                           : @"\U0001F1F9\U0001F1FC", \
+    @":flag_tz:"                           : @"\U0001F1F9\U0001F1FF", \
+    @":flag_ua:"                           : @"\U0001F1FA\U0001F1E6", \
+    @":flag_ug:"                           : @"\U0001F1FA\U0001F1EC", \
+    @":flag_um:"                           : @"\U0001F1FA\U0001F1F2", \
+    @":flag_us:"                           : @"\U0001F1FA\U0001F1F8", \
+    @":flag_uy:"                           : @"\U0001F1FA\U0001F1FE", \
+    @":flag_uz:"                           : @"\U0001F1FA\U0001F1FF", \
+    @":flag_va:"                           : @"\U0001F1FB\U0001F1E6", \
+    @":flag_vc:"                           : @"\U0001F1FB\U0001F1E8", \
+    @":flag_ve:"                           : @"\U0001F1FB\U0001F1EA", \
+    @":flag_vg:"                           : @"\U0001F1FB\U0001F1EC", \
+    @":flag_vi:"                           : @"\U0001F1FB\U0001F1EE", \
+    @":flag_vn:"                           : @"\U0001F1FB\U0001F1F3", \
+    @":flag_vu:"                           : @"\U0001F1FB\U0001F1FA", \
+    @":flag_wf:"                           : @"\U0001F1FC\U0001F1EB", \
+    @":flag_ws:"                           : @"\U0001F1FC\U0001F1F8", \
+    @":flag_ye:"                           : @"\U0001F1FE\U0001F1EA", \
+    @":flag_yt:"                           : @"\U0001F1FE\U0001F1F9", \
+    @":flag_za:"                           : @"\U0001F1FF\U0001F1E6", \
+    @":flag_zm:"                           : @"\U0001F1FF\U0001F1F2", \
+    @":flag_zw:"                           : @"\U0001F1FF\U0001F1FC", \
     @":flags:"                             : @"\U0001F38F", \
     @":flashlight:"                        : @"\U0001F526", \
     @":flipper:"                           : @"\U0001F42C", \
     @":floppy_disk:"                       : @"\U0001F4BE", \
     @":flower_playing_cards:"              : @"\U0001F3B4", \
     @":flushed:"                           : @"\U0001F633", \
+    @":fm:"                                : @"\U0001F1EB\U0001F1F2", \
+    @":fo:"                                : @"\U0001F1EB\U0001F1F4", \
     @":foggy:"                             : @"\U0001F301", \
     @":football:"                          : @"\U0001F3C8", \
     @":footprints:"                        : @"\U0001F463", \
     @":fork_and_knife:"                    : @"\U0001F374", \
     @":fountain:"                          : @"\U000026F2", \
     @":four_leaf_clover:"                  : @"\U0001F340", \
+    @":fr:"                                : @"\U0001F1EB\U0001F1F7", \
     @":free:"                              : @"\U0001F193", \
     @":fried_shrimp:"                      : @"\U0001F364", \
     @":fries:"                             : @"\U0001F35F", \
@@ -322,16 +895,30 @@
     @":fuelpump:"                          : @"\U000026FD", \
     @":full_moon:"                         : @"\U0001F315", \
     @":full_moon_with_face:"               : @"\U0001F31D", \
+    @":ga:"                                : @"\U0001F1EC\U0001F1E6", \
     @":game_die:"                          : @"\U0001F3B2", \
+    @":gb:"                                : @"\U0001F1EC\U0001F1E7", \
+    @":gd:"                                : @"\U0001F1EC\U0001F1E9", \
+    @":ge:"                                : @"\U0001F1EC\U0001F1EA", \
     @":gem:"                               : @"\U0001F48E", \
     @":gemini:"                            : @"\U0000264A", \
+    @":gf:"                                : @"\U0001F1EC\U0001F1EB", \
+    @":gg:"                                : @"\U0001F1EC\U0001F1EC", \
+    @":gh:"                                : @"\U0001F1EC\U0001F1ED", \
     @":ghost:"                             : @"\U0001F47B", \
+    @":gi:"                                : @"\U0001F1EC\U0001F1EE", \
     @":gift:"                              : @"\U0001F381", \
     @":gift_heart:"                        : @"\U0001F49D", \
     @":girl:"                              : @"\U0001F467", \
+    @":gl:"                                : @"\U0001F1EC\U0001F1F1", \
     @":globe_with_meridians:"              : @"\U0001F310", \
+    @":gm:"                                : @"\U0001F1EC\U0001F1F2", \
+    @":gn:"                                : @"\U0001F1EC\U0001F1F3", \
     @":goat:"                              : @"\U0001F410", \
     @":golf:"                              : @"\U000026F3", \
+    @":gp:"                                : @"\U0001F1EC\U0001F1F5", \
+    @":gq:"                                : @"\U0001F1EC\U0001F1F6", \
+    @":gr:"                                : @"\U0001F1EC\U0001F1F7", \
     @":grapes:"                            : @"\U0001F347", \
     @":green_apple:"                       : @"\U0001F34F", \
     @":green_book:"                        : @"\U0001F4D7", \
@@ -341,9 +928,14 @@
     @":grimacing:"                         : @"\U0001F62C", \
     @":grin:"                              : @"\U0001F601", \
     @":grinning:"                          : @"\U0001F600", \
+    @":gs:"                                : @"\U0001F1EC\U0001F1F8", \
+    @":gt:"                                : @"\U0001F1EC\U0001F1F9", \
+    @":gu:"                                : @"\U0001F1EC\U0001F1FA", \
     @":guardsman:"                         : @"\U0001F482", \
     @":guitar:"                            : @"\U0001F3B8", \
     @":gun:"                               : @"\U0001F52B", \
+    @":gw:"                                : @"\U0001F1EC\U0001F1FC", \
+    @":gy:"                                : @"\U0001F1EC\U0001F1FE", \
     @":haircut:"                           : @"\U0001F487", \
     @":hamburger:"                         : @"\U0001F354", \
     @":hammer:"                            : @"\U0001F528", \
@@ -374,6 +966,9 @@
     @":hibiscus:"                          : @"\U0001F33A", \
     @":high_brightness:"                   : @"\U0001F506", \
     @":high_heel:"                         : @"\U0001F460", \
+    @":hk:"                                : @"\U0001F1ED\U0001F1F0", \
+    @":hm:"                                : @"\U0001F1ED\U0001F1F2", \
+    @":hn:"                                : @"\U0001F1ED\U0001F1F3", \
     @":hocho:"                             : @"\U0001F52A", \
     @":honey_pot:"                         : @"\U0001F36F", \
     @":honeybee:"                          : @"\U0001F41D", \
@@ -386,30 +981,51 @@
     @":hourglass_flowing_sand:"            : @"\U000023F3", \
     @":house:"                             : @"\U0001F3E0", \
     @":house_with_garden:"                 : @"\U0001F3E1", \
+    @":hr:"                                : @"\U0001F1ED\U0001F1F7", \
+    @":ht:"                                : @"\U0001F1ED\U0001F1F9", \
+    @":hu:"                                : @"\U0001F1ED\U0001F1FA", \
     @":hushed:"                            : @"\U0001F62F", \
     @":ice_cream:"                         : @"\U0001F368", \
     @":icecream:"                          : @"\U0001F366", \
     @":id:"                                : @"\U0001F194", \
+    @":id:"                                : @"\U0001F1EE\U0001F1E9", \
     @":ideograph_advantage:"               : @"\U0001F250", \
+    @":ie:"                                : @"\U0001F1EE\U0001F1EA", \
+    @":il:"                                : @"\U0001F1EE\U0001F1F1", \
+    @":im:"                                : @"\U0001F1EE\U0001F1F2", \
     @":imp:"                               : @"\U0001F47F", \
+    @":in:"                                : @"\U0001F1EE\U0001F1F3", \
     @":inbox_tray:"                        : @"\U0001F4E5", \
     @":incoming_envelope:"                 : @"\U0001F4E8", \
     @":information_desk_person:"           : @"\U0001F481", \
     @":information_source:"                : @"\U00002139", \
     @":innocent:"                          : @"\U0001F607", \
     @":interrobang:"                       : @"\U00002049", \
+    @":io:"                                : @"\U0001F1EE\U0001F1F4", \
     @":iphone:"                            : @"\U0001F4F1", \
+    @":iq:"                                : @"\U0001F1EE\U0001F1F6", \
+    @":ir:"                                : @"\U0001F1EE\U0001F1F7", \
+    @":is:"                                : @"\U0001F1EE\U0001F1F8", \
+    @":it:"                                : @"\U0001F1EE\U0001F1F9", \
     @":izakaya_lantern:"                   : @"\U0001F3EE", \
     @":jack_o_lantern:"                    : @"\U0001F383", \
     @":japan:"                             : @"\U0001F5FE", \
     @":japanese_castle:"                   : @"\U0001F3EF", \
     @":japanese_goblin:"                   : @"\U0001F47A", \
     @":japanese_ogre:"                     : @"\U0001F479", \
+    @":je:"                                : @"\U0001F1EF\U0001F1EA", \
     @":jeans:"                             : @"\U0001F456", \
+    @":jm:"                                : @"\U0001F1EF\U0001F1F2", \
+    @":jo:"                                : @"\U0001F1EF\U0001F1F4", \
     @":joy:"                               : @"\U0001F602", \
     @":joy_cat:"                           : @"\U0001F639", \
+    @":jp:"                                : @"\U0001F1EF\U0001F1F5", \
+    @":ke:"                                : @"\U0001F1F0\U0001F1EA", \
     @":key:"                               : @"\U0001F511", \
     @":keycap_ten:"                        : @"\U0001F51F", \
+    @":kg:"                                : @"\U0001F1F0\U0001F1EC", \
+    @":kh:"                                : @"\U0001F1F0\U0001F1ED", \
+    @":ki:"                                : @"\U0001F1F0\U0001F1EE", \
     @":kimono:"                            : @"\U0001F458", \
     @":kiss:"                              : @"\U0001F48B", \
     @":kissing:"                           : @"\U0001F617", \
@@ -417,8 +1033,16 @@
     @":kissing_closed_eyes:"               : @"\U0001F61A", \
     @":kissing_heart:"                     : @"\U0001F618", \
     @":kissing_smiling_eyes:"              : @"\U0001F619", \
+    @":km:"                                : @"\U0001F1F0\U0001F1F2", \
+    @":kn:"                                : @"\U0001F1F0\U0001F1F3", \
     @":koala:"                             : @"\U0001F428", \
     @":koko:"                              : @"\U0001F201", \
+    @":kp:"                                : @"\U0001F1F0\U0001F1F5", \
+    @":kr:"                                : @"\U0001F1F0\U0001F1F7", \
+    @":kw:"                                : @"\U0001F1F0\U0001F1FC", \
+    @":ky:"                                : @"\U0001F1F0\U0001F1FE", \
+    @":kz:"                                : @"\U0001F1F0\U0001F1FF", \
+    @":la:"                                : @"\U0001F1F1\U0001F1E6", \
     @":lantern:"                           : @"\U0001F3EE", \
     @":large_blue_circle:"                 : @"\U0001F535", \
     @":large_blue_diamond:"                : @"\U0001F537", \
@@ -426,6 +1050,8 @@
     @":last_quarter_moon:"                 : @"\U0001F317", \
     @":last_quarter_moon_with_face:"       : @"\U0001F31C", \
     @":laughing:"                          : @"\U0001F606", \
+    @":lb:"                                : @"\U0001F1F1\U0001F1E7", \
+    @":lc:"                                : @"\U0001F1F1\U0001F1E8", \
     @":leaves:"                            : @"\U0001F343", \
     @":ledger:"                            : @"\U0001F4D2", \
     @":left_luggage:"                      : @"\U0001F6C5", \
@@ -434,11 +1060,13 @@
     @":lemon:"                             : @"\U0001F34B", \
     @":leo:"                               : @"\U0000264C", \
     @":leopard:"                           : @"\U0001F406", \
+    @":li:"                                : @"\U0001F1F1\U0001F1EE", \
     @":libra:"                             : @"\U0000264E", \
     @":light_rail:"                        : @"\U0001F688", \
     @":link:"                              : @"\U0001F517", \
     @":lips:"                              : @"\U0001F444", \
     @":lipstick:"                          : @"\U0001F484", \
+    @":lk:"                                : @"\U0001F1F1\U0001F1F0", \
     @":lock:"                              : @"\U0001F512", \
     @":lock_with_ink_pen:"                 : @"\U0001F50F", \
     @":lollipop:"                          : @"\U0001F36D", \
@@ -447,7 +1075,14 @@
     @":love_hotel:"                        : @"\U0001F3E9", \
     @":love_letter:"                       : @"\U0001F48C", \
     @":low_brightness:"                    : @"\U0001F505", \
+    @":lr:"                                : @"\U0001F1F1\U0001F1F7", \
+    @":ls:"                                : @"\U0001F1F1\U0001F1F8", \
+    @":lt:"                                : @"\U0001F1F1\U0001F1F9", \
+    @":lu:"                                : @"\U0001F1F1\U0001F1FA", \
+    @":lv:"                                : @"\U0001F1F1\U0001F1FB", \
+    @":ly:"                                : @"\U0001F1F1\U0001F1FE", \
     @":m:"                                 : @"\U000024C2", \
+    @":ma:"                                : @"\U0001F1F2\U0001F1E6", \
     @":mag:"                               : @"\U0001F50D", \
     @":mag_right:"                         : @"\U0001F50E", \
     @":mahjong:"                           : @"\U0001F004", \
@@ -462,17 +1097,28 @@
     @":maple_leaf:"                        : @"\U0001F341", \
     @":mask:"                              : @"\U0001F637", \
     @":massage:"                           : @"\U0001F486", \
+    @":mc:"                                : @"\U0001F1F2\U0001F1E8", \
+    @":md:"                                : @"\U0001F1F2\U0001F1E9", \
+    @":me:"                                : @"\U0001F1F2\U0001F1EA", \
     @":meat_on_bone:"                      : @"\U0001F356", \
     @":mega:"                              : @"\U0001F4E3", \
     @":melon:"                             : @"\U0001F348", \
     @":memo:"                              : @"\U0001F4DD", \
     @":mens:"                              : @"\U0001F6B9", \
     @":metro:"                             : @"\U0001F687", \
+    @":mf:"                                : @"\U0001F1F2\U0001F1EB", \
+    @":mg:"                                : @"\U0001F1F2\U0001F1EC", \
+    @":mh:"                                : @"\U0001F1F2\U0001F1ED", \
     @":microphone:"                        : @"\U0001F3A4", \
     @":microscope:"                        : @"\U0001F52C", \
     @":milky_way:"                         : @"\U0001F30C", \
     @":minibus:"                           : @"\U0001F690", \
     @":minidisc:"                          : @"\U0001F4BD", \
+    @":mk:"                                : @"\U0001F1F2\U0001F1F0", \
+    @":ml:"                                : @"\U0001F1F2\U0001F1F1", \
+    @":mm:"                                : @"\U0001F1F2\U0001F1F2", \
+    @":mn:"                                : @"\U0001F1F2\U0001F1F3", \
+    @":mo:"                                : @"\U0001F1F2\U0001F1F4", \
     @":mobile_phone_off:"                  : @"\U0001F4F4", \
     @":money_with_wings:"                  : @"\U0001F4B8", \
     @":moneybag:"                          : @"\U0001F4B0", \
@@ -489,14 +1135,28 @@
     @":mouse2:"                            : @"\U0001F401", \
     @":movie_camera:"                      : @"\U0001F3A5", \
     @":moyai:"                             : @"\U0001F5FF", \
+    @":mp:"                                : @"\U0001F1F2\U0001F1F5", \
+    @":mq:"                                : @"\U0001F1F2\U0001F1F6", \
+    @":mr:"                                : @"\U0001F1F2\U0001F1F7", \
+    @":ms:"                                : @"\U0001F1F2\U0001F1F8", \
+    @":mt:"                                : @"\U0001F1F2\U0001F1F9", \
+    @":mu:"                                : @"\U0001F1F2\U0001F1FA", \
     @":muscle:"                            : @"\U0001F4AA", \
     @":mushroom:"                          : @"\U0001F344", \
     @":musical_keyboard:"                  : @"\U0001F3B9", \
     @":musical_note:"                      : @"\U0001F3B5", \
     @":musical_score:"                     : @"\U0001F3BC", \
     @":mute:"                              : @"\U0001F507", \
+    @":mv:"                                : @"\U0001F1F2\U0001F1FB", \
+    @":mw:"                                : @"\U0001F1F2\U0001F1FC", \
+    @":mx:"                                : @"\U0001F1F2\U0001F1FD", \
+    @":my:"                                : @"\U0001F1F2\U0001F1FE", \
+    @":mz:"                                : @"\U0001F1F2\U0001F1FF", \
+    @":na:"                                : @"\U0001F1F3\U0001F1E6", \
     @":nail_care:"                         : @"\U0001F485", \
     @":name_badge:"                        : @"\U0001F4DB", \
+    @":nc:"                                : @"\U0001F1F3\U0001F1E8", \
+    @":ne:"                                : @"\U0001F1F3\U0001F1EA", \
     @":necktie:"                           : @"\U0001F454", \
     @":negative_squared_cross_mark:"       : @"\U0000274E", \
     @":neutral_face:"                      : @"\U0001F610", \
@@ -504,7 +1164,12 @@
     @":new_moon:"                          : @"\U0001F311", \
     @":new_moon_with_face:"                : @"\U0001F31A", \
     @":newspaper:"                         : @"\U0001F4F0", \
+    @":nf:"                                : @"\U0001F1F3\U0001F1EB", \
     @":ng:"                                : @"\U0001F196", \
+    @":ng:"                                : @"\U0001F1F3\U0001F1EC", \
+    @":ni:"                                : @"\U0001F1F3\U0001F1EE", \
+    @":nl:"                                : @"\U0001F1F3\U0001F1F1", \
+    @":no:"                                : @"\U0001F1F3\U0001F1F4", \
     @":no_bell:"                           : @"\U0001F515", \
     @":no_bicycles:"                       : @"\U0001F6B3", \
     @":no_entry:"                          : @"\U000026D4", \
@@ -519,7 +1184,11 @@
     @":notebook:"                          : @"\U0001F4D3", \
     @":notebook_with_decorative_cover:"    : @"\U0001F4D4", \
     @":notes:"                             : @"\U0001F3B6", \
+    @":np:"                                : @"\U0001F1F3\U0001F1F5", \
+    @":nr:"                                : @"\U0001F1F3\U0001F1F7", \
+    @":nu:"                                : @"\U0001F1F3\U0001F1FA", \
     @":nut_and_bolt:"                      : @"\U0001F529", \
+    @":nz:"                                : @"\U0001F1F3\U0001F1FF", \
     @":o:"                                 : @"\U00002B55", \
     @":o2:"                                : @"\U0001F17E", \
     @":ocean:"                             : @"\U0001F30A", \
@@ -531,6 +1200,7 @@
     @":ok_woman:"                          : @"\U0001F646", \
     @":older_man:"                         : @"\U0001F474", \
     @":older_woman:"                       : @"\U0001F475", \
+    @":om:"                                : @"\U0001F1F4\U0001F1F2", \
     @":on:"                                : @"\U0001F51B", \
     @":oncoming_automobile:"               : @"\U0001F698", \
     @":oncoming_bus:"                      : @"\U0001F68D", \
@@ -544,6 +1214,7 @@
     @":orange_book:"                       : @"\U0001F4D9", \
     @":outbox_tray:"                       : @"\U0001F4E4", \
     @":ox:"                                : @"\U0001F402", \
+    @":pa:"                                : @"\U0001F1F5\U0001F1E6", \
     @":package:"                           : @"\U0001F4E6", \
     @":page_facing_up:"                    : @"\U0001F4C4", \
     @":page_with_curl:"                    : @"\U0001F4C3", \
@@ -556,6 +1227,7 @@
     @":partly_sunny:"                      : @"\U000026C5", \
     @":passport_control:"                  : @"\U0001F6C2", \
     @":paw_prints:"                        : @"\U0001F43E", \
+    @":pe:"                                : @"\U0001F1F5\U0001F1EA", \
     @":peach:"                             : @"\U0001F351", \
     @":pear:"                              : @"\U0001F350", \
     @":pencil:"                            : @"\U0001F4DD", \
@@ -567,6 +1239,9 @@
     @":person_frowning:"                   : @"\U0001F64D", \
     @":person_with_blond_hair:"            : @"\U0001F471", \
     @":person_with_pouting_face:"          : @"\U0001F64E", \
+    @":pf:"                                : @"\U0001F1F5\U0001F1EB", \
+    @":pg:"                                : @"\U0001F1F5\U0001F1EC", \
+    @":ph:"                                : @"\U0001F1F5\U0001F1ED", \
     @":phone:"                             : @"\U0000260E", \
     @":pig:"                               : @"\U0001F437", \
     @":pig2:"                              : @"\U0001F416", \
@@ -575,6 +1250,10 @@
     @":pineapple:"                         : @"\U0001F34D", \
     @":pisces:"                            : @"\U00002653", \
     @":pizza:"                             : @"\U0001F355", \
+    @":pk:"                                : @"\U0001F1F5\U0001F1F0", \
+    @":pl:"                                : @"\U0001F1F5\U0001F1F1", \
+    @":pm:"                                : @"\U0001F1F5\U0001F1F2", \
+    @":pn:"                                : @"\U0001F1F5\U0001F1F3", \
     @":point_down:"                        : @"\U0001F447", \
     @":point_left:"                        : @"\U0001F448", \
     @":point_right:"                       : @"\U0001F449", \
@@ -591,13 +1270,19 @@
     @":poultry_leg:"                       : @"\U0001F357", \
     @":pound:"                             : @"\U0001F4B7", \
     @":pouting_cat:"                       : @"\U0001F63E", \
+    @":pr:"                                : @"\U0001F1F5\U0001F1F7", \
     @":pray:"                              : @"\U0001F64F", \
     @":princess:"                          : @"\U0001F478", \
+    @":ps:"                                : @"\U0001F1F5\U0001F1F8", \
+    @":pt:"                                : @"\U0001F1F5\U0001F1F9", \
     @":punch:"                             : @"\U0001F44A", \
     @":purple_heart:"                      : @"\U0001F49C", \
     @":purse:"                             : @"\U0001F45B", \
     @":pushpin:"                           : @"\U0001F4CC", \
     @":put_litter_in_its_place:"           : @"\U0001F6AE", \
+    @":pw:"                                : @"\U0001F1F5\U0001F1FC", \
+    @":py:"                                : @"\U0001F1F5\U0001F1FE", \
+    @":qa:"                                : @"\U0001F1F6\U0001F1E6", \
     @":question:"                          : @"\U00002753", \
     @":rabbit:"                            : @"\U0001F430", \
     @":rabbit2:"                           : @"\U0001F407", \
@@ -613,6 +1298,7 @@
     @":ram:"                               : @"\U0001F40F", \
     @":ramen:"                             : @"\U0001F35C", \
     @":rat:"                               : @"\U0001F400", \
+    @":re:"                                : @"\U0001F1F7\U0001F1EA", \
     @":recycle:"                           : @"\U0000267B", \
     @":red_car:"                           : @"\U0001F697", \
     @":red_circle:"                        : @"\U0001F534", \
@@ -630,6 +1316,7 @@
     @":rice_cracker:"                      : @"\U0001F358", \
     @":rice_scene:"                        : @"\U0001F391", \
     @":ring:"                              : @"\U0001F48D", \
+    @":ro:"                                : @"\U0001F1F7\U0001F1F4", \
     @":rocket:"                            : @"\U0001F680", \
     @":roller_coaster:"                    : @"\U0001F3A2", \
     @":rooster:"                           : @"\U0001F413", \
@@ -637,10 +1324,14 @@
     @":rotating_light:"                    : @"\U0001F6A8", \
     @":round_pushpin:"                     : @"\U0001F4CD", \
     @":rowboat:"                           : @"\U0001F6A3", \
+    @":rs:"                                : @"\U0001F1F7\U0001F1F8", \
+    @":ru:"                                : @"\U0001F1F7\U0001F1FA", \
     @":rugby_football:"                    : @"\U0001F3C9", \
     @":runner:"                            : @"\U0001F3C3", \
     @":running:"                           : @"\U0001F3C3", \
     @":running_shirt_with_sash:"           : @"\U0001F3BD", \
+    @":rw:"                                : @"\U0001F1F7\U0001F1FC", \
+    @":sa:"                                : @"\U0001F1F8\U0001F1E6", \
     @":sa:"                                : @"\U0001F202", \
     @":sagittarius:"                       : @"\U00002650", \
     @":sailboat:"                          : @"\U000026F5", \
@@ -650,6 +1341,8 @@
     @":satellite:"                         : @"\U0001F4E1", \
     @":satisfied:"                         : @"\U0001F606", \
     @":saxophone:"                         : @"\U0001F3B7", \
+    @":sb:"                                : @"\U0001F1F8\U0001F1E7", \
+    @":sc:"                                : @"\U0001F1F8\U0001F1E8", \
     @":school:"                            : @"\U0001F3EB", \
     @":school_satchel:"                    : @"\U0001F392", \
     @":scissors:"                          : @"\U00002702", \
@@ -657,10 +1350,14 @@
     @":scream:"                            : @"\U0001F631", \
     @":scream_cat:"                        : @"\U0001F640", \
     @":scroll:"                            : @"\U0001F4DC", \
+    @":sd:"                                : @"\U0001F1F8\U0001F1E9", \
+    @":se:"                                : @"\U0001F1F8\U0001F1EA", \
     @":seat:"                              : @"\U0001F4BA", \
     @":secret:"                            : @"\U00003299", \
     @":see_no_evil:"                       : @"\U0001F648", \
     @":seedling:"                          : @"\U0001F331", \
+    @":sg:"                                : @"\U0001F1F8\U0001F1EC", \
+    @":sh:"                                : @"\U0001F1F8\U0001F1ED", \
     @":shaved_ice:"                        : @"\U0001F367", \
     @":sheep:"                             : @"\U0001F411", \
     @":shell:"                             : @"\U0001F41A", \
@@ -669,13 +1366,18 @@
     @":shit:"                              : @"\U0001F4A9", \
     @":shoe:"                              : @"\U0001F45E", \
     @":shower:"                            : @"\U0001F6BF", \
+    @":si:"                                : @"\U0001F1F8\U0001F1EE", \
     @":signal_strength:"                   : @"\U0001F4F6", \
     @":six_pointed_star:"                  : @"\U0001F52F", \
+    @":sj:"                                : @"\U0001F1F8\U0001F1EF", \
+    @":sk:"                                : @"\U0001F1F8\U0001F1F0", \
     @":ski:"                               : @"\U0001F3BF", \
     @":skull:"                             : @"\U0001F480", \
+    @":sl:"                                : @"\U0001F1F8\U0001F1F1", \
     @":sleeping:"                          : @"\U0001F634", \
     @":sleepy:"                            : @"\U0001F62A", \
     @":slot_machine:"                      : @"\U0001F3B0", \
+    @":sm:"                                : @"\U0001F1F8\U0001F1F2", \
     @":small_blue_diamond:"                : @"\U0001F539", \
     @":small_orange_diamond:"              : @"\U0001F538", \
     @":small_red_triangle:"                : @"\U0001F53A", \
@@ -688,11 +1390,13 @@
     @":smirk:"                             : @"\U0001F60F", \
     @":smirk_cat:"                         : @"\U0001F63C", \
     @":smoking:"                           : @"\U0001F6AC", \
+    @":sn:"                                : @"\U0001F1F8\U0001F1F3", \
     @":snail:"                             : @"\U0001F40C", \
     @":snake:"                             : @"\U0001F40D", \
     @":snowboarder:"                       : @"\U0001F3C2", \
     @":snowflake:"                         : @"\U00002744", \
     @":snowman:"                           : @"\U000026C4", \
+    @":so:"                                : @"\U0001F1F8\U0001F1F4", \
     @":sob:"                               : @"\U0001F62D", \
     @":soccer:"                            : @"\U000026BD", \
     @":soon:"                              : @"\U0001F51C", \
@@ -709,6 +1413,9 @@
     @":speaker:"                           : @"\U0001F50A", \
     @":speech_balloon:"                    : @"\U0001F4AC", \
     @":speedboat:"                         : @"\U0001F6A4", \
+    @":sr:"                                : @"\U0001F1F8\U0001F1F7", \
+    @":ss:"                                : @"\U0001F1F8\U0001F1F8", \
+    @":st:"                                : @"\U0001F1F8\U0001F1F9", \
     @":star:"                              : @"\U00002B50", \
     @":star2:"                             : @"\U0001F31F", \
     @":stars:"                             : @"\U0001F303", \
@@ -730,24 +1437,33 @@
     @":surfer:"                            : @"\U0001F3C4", \
     @":sushi:"                             : @"\U0001F363", \
     @":suspension_railway:"                : @"\U0001F69F", \
+    @":sv:"                                : @"\U0001F1F8\U0001F1FB", \
     @":sweat:"                             : @"\U0001F613", \
     @":sweat_drops:"                       : @"\U0001F4A6", \
     @":sweat_smile:"                       : @"\U0001F605", \
     @":sweet_potato:"                      : @"\U0001F360", \
     @":swimmer:"                           : @"\U0001F3CA", \
+    @":sx:"                                : @"\U0001F1F8\U0001F1FD", \
+    @":sy:"                                : @"\U0001F1F8\U0001F1FE", \
     @":symbols:"                           : @"\U0001F523", \
     @":syringe:"                           : @"\U0001F489", \
+    @":sz:"                                : @"\U0001F1F8\U0001F1FF", \
     @":tada:"                              : @"\U0001F389", \
     @":tanabata_tree:"                     : @"\U0001F38B", \
     @":tangerine:"                         : @"\U0001F34A", \
     @":taurus:"                            : @"\U00002649", \
     @":taxi:"                              : @"\U0001F695", \
+    @":tc:"                                : @"\U0001F1F9\U0001F1E8", \
+    @":td:"                                : @"\U0001F1F9\U0001F1E9", \
     @":tea:"                               : @"\U0001F375", \
     @":telephone:"                         : @"\U0000260E", \
     @":telephone_receiver:"                : @"\U0001F4DE", \
     @":telescope:"                         : @"\U0001F52D", \
     @":tennis:"                            : @"\U0001F3BE", \
     @":tent:"                              : @"\U000026FA", \
+    @":tf:"                                : @"\U0001F1F9\U0001F1EB", \
+    @":tg:"                                : @"\U0001F1F9\U0001F1EC", \
+    @":th:"                                : @"\U0001F1F9\U0001F1ED", \
     @":thought_balloon:"                   : @"\U0001F4AD", \
     @":thumbsdown:"                        : @"\U0001F44E", \
     @":thumbsup:"                          : @"\U0001F44D", \
@@ -755,13 +1471,20 @@
     @":tiger:"                             : @"\U0001F42F", \
     @":tiger2:"                            : @"\U0001F405", \
     @":tired_face:"                        : @"\U0001F62B", \
+    @":tj:"                                : @"\U0001F1F9\U0001F1EF", \
+    @":tk:"                                : @"\U0001F1F9\U0001F1F0", \
+    @":tl:"                                : @"\U0001F1F9\U0001F1F1", \
     @":tm:"                                : @"\U00002122", \
+    @":tm:"                                : @"\U0001F1F9\U0001F1F2", \
+    @":tn:"                                : @"\U0001F1F9\U0001F1F3", \
+    @":to:"                                : @"\U0001F1F9\U0001F1F4", \
     @":toilet:"                            : @"\U0001F6BD", \
     @":tokyo_tower:"                       : @"\U0001F5FC", \
     @":tomato:"                            : @"\U0001F345", \
     @":tongue:"                            : @"\U0001F445", \
     @":top:"                               : @"\U0001F51D", \
     @":tophat:"                            : @"\U0001F3A9", \
+    @":tr:"                                : @"\U0001F1F9\U0001F1F7", \
     @":tractor:"                           : @"\U0001F69C", \
     @":traffic_light:"                     : @"\U0001F6A5", \
     @":train:"                             : @"\U0001F683", \
@@ -778,13 +1501,17 @@
     @":truck:"                             : @"\U0001F69A", \
     @":trumpet:"                           : @"\U0001F3BA", \
     @":tshirt:"                            : @"\U0001F455", \
+    @":tt:"                                : @"\U0001F1F9\U0001F1F9", \
     @":tulip:"                             : @"\U0001F337", \
     @":turtle:"                            : @"\U0001F422", \
+    @":tv:"                                : @"\U0001F1F9\U0001F1FB", \
     @":tv:"                                : @"\U0001F4FA", \
+    @":tw:"                                : @"\U0001F1F9\U0001F1FC", \
     @":twisted_rightwards_arrows:"         : @"\U0001F500", \
     @":two_hearts:"                        : @"\U0001F495", \
     @":two_men_holding_hands:"             : @"\U0001F46C", \
     @":two_women_holding_hands:"           : @"\U0001F46D", \
+    @":tz:"                                : @"\U0001F1F9\U0001F1FF", \
     @":u5272:"                             : @"\U0001F239", \
     @":u5408:"                             : @"\U0001F234", \
     @":u55b6:"                             : @"\U0001F23A", \
@@ -796,21 +1523,34 @@
     @":u7533:"                             : @"\U0001F238", \
     @":u7981:"                             : @"\U0001F232", \
     @":u7a7a:"                             : @"\U0001F233", \
+    @":ua:"                                : @"\U0001F1FA\U0001F1E6", \
+    @":ug:"                                : @"\U0001F1FA\U0001F1EC", \
+    @":um:"                                : @"\U0001F1FA\U0001F1F2", \
     @":umbrella:"                          : @"\U00002614", \
     @":unamused:"                          : @"\U0001F612", \
     @":underage:"                          : @"\U0001F51E", \
     @":unlock:"                            : @"\U0001F513", \
     @":up:"                                : @"\U0001F199", \
+    @":us:"                                : @"\U0001F1FA\U0001F1F8", \
+    @":uy:"                                : @"\U0001F1FA\U0001F1FE", \
+    @":uz:"                                : @"\U0001F1FA\U0001F1FF", \
     @":v:"                                 : @"\U0000270C", \
+    @":va:"                                : @"\U0001F1FB\U0001F1E6", \
+    @":vc:"                                : @"\U0001F1FB\U0001F1E8", \
+    @":ve:"                                : @"\U0001F1FB\U0001F1EA", \
     @":vertical_traffic_light:"            : @"\U0001F6A6", \
+    @":vg:"                                : @"\U0001F1FB\U0001F1EC", \
     @":vhs:"                               : @"\U0001F4FC", \
+    @":vi:"                                : @"\U0001F1FB\U0001F1EE", \
     @":vibration_mode:"                    : @"\U0001F4F3", \
     @":video_camera:"                      : @"\U0001F4F9", \
     @":video_game:"                        : @"\U0001F3AE", \
     @":violin:"                            : @"\U0001F3BB", \
     @":virgo:"                             : @"\U0000264D", \
+    @":vn:"                                : @"\U0001F1FB\U0001F1F3", \
     @":volcano:"                           : @"\U0001F30B", \
     @":vs:"                                : @"\U0001F19A", \
+    @":vu:"                                : @"\U0001F1FB\U0001F1FA", \
     @":walking:"                           : @"\U0001F6B6", \
     @":waning_crescent_moon:"              : @"\U0001F318", \
     @":waning_gibbous_moon:"               : @"\U0001F316", \
@@ -825,6 +1565,7 @@
     @":wc:"                                : @"\U0001F6BE", \
     @":weary:"                             : @"\U0001F629", \
     @":wedding:"                           : @"\U0001F492", \
+    @":wf:"                                : @"\U0001F1FC\U0001F1EB", \
     @":whale:"                             : @"\U0001F433", \
     @":whale2:"                            : @"\U0001F40B", \
     @":wheelchair:"                        : @"\U0000267F", \
@@ -846,10 +1587,16 @@
     @":womens:"                            : @"\U0001F6BA", \
     @":worried:"                           : @"\U0001F61F", \
     @":wrench:"                            : @"\U0001F527", \
+    @":ws:"                                : @"\U0001F1FC\U0001F1F8", \
     @":x:"                                 : @"\U0000274C", \
+    @":ye:"                                : @"\U0001F1FE\U0001F1EA", \
     @":yellow_heart:"                      : @"\U0001F49B", \
     @":yen:"                               : @"\U0001F4B4", \
+    @":yt:"                                : @"\U0001F1FE\U0001F1F9", \
     @":yum:"                               : @"\U0001F60B", \
+    @":za:"                                : @"\U0001F1FF\U0001F1E6", \
     @":zap:"                               : @"\U000026A1", \
+    @":zm:"                                : @"\U0001F1FF\U0001F1F2", \
+    @":zw:"                                : @"\U0001F1FF\U0001F1FC", \
     @":zzz:"                               : @"\U0001F4A4" \
 }
